@@ -1,0 +1,10 @@
+{
+  "name": "pupJS",
+  "version": "1.0.0",
+  "description": "pupJS is a framework on top of express for building lightweight applications without any of the bloatwares you see on other node frameworks. This is a classic MVC approach that is also extensible for various frontend libraries such as React & Vue. ORM is used and compatible with MySQL and Postgresql. ",
+  "main": "app.js",
+  "repository": "https://github.com/moseslucas/pup",
+  "author": "Moses Lucas",
+  "license": "MIT",
+  "private": false
+}
